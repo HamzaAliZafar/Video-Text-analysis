@@ -5,7 +5,7 @@ https://github.com/eragonruan/text-detection-ctpn
 https://github.com/meijieru/crnn.pytorch
 
 Analyzing text content in video is research based software project which detect, recognize and analyze text in videos using sentiment analysis in real or near to
-real time through different artificial intelligence techniques. Text analysis in videos is all in one product which analyze text in a video using
+real time through different artificial intelligence techniques. This project is a all in one product which analyze text in a video using
 sentiment analysis techniques. Different modules like detection, recognition and analysis of textual video content requires a combination of various artificial
 intelligence techniques. Text in a videos usually denotes the important features that constitute important video items. The purpose is to extract these salient entities which
 are useful in analysis of text.
