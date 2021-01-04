@@ -1,4 +1,4 @@
-# text-detection-ctpn
+# Video Text Analysis
 
 CODE TAKEN FROM:
 https://github.com/eragonruan/text-detection-ctpn
