@@ -1,6 +1,6 @@
 # Video Text Analysis
 
-CODE TAKEN FROM:
+CODE BASE FOR CTPN AND CRNN TAKEN FROM:
 https://github.com/eragonruan/text-detection-ctpn
 https://github.com/meijieru/crnn.pytorch
 
